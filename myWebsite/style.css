@@ -39,3 +39,11 @@ header {
   padding-left: 50px;
   padding-right: 90px;
 }
+
+.bringMeUp {
+  background-color: transparent;
+  color: rgb(148, 205, 246);
+  position: fixed;
+  right: 10%;
+  bottom: 5%;
+}
