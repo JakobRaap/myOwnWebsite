@@ -5,3 +5,8 @@
   line-height: 1.5;
   background-color: beige;
 }
+
+.testButton {
+  border-radius: 30px;
+  background-color: lightcyan;
+}
