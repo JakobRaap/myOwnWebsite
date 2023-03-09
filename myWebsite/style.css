@@ -10,3 +10,9 @@
   border-radius: 30px;
   background-color: lightcyan;
 }
+
+.posiOben {
+  position: fixed;
+  top: 2%;
+  right: 2%;
+}
